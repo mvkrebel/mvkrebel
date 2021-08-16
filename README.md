@@ -1,7 +1,2 @@
-👋 Hi, I’m Vamsi working at Rebel Foods.
-
-👀 I’m interested in building SaaS products.
-
-🌱 I’m currently learning full-stack development.
-
-📫 Reach me @ vamsi.mudumba@rebelfoods.com
+👋 Hi, I’m Vamsi from Rebel Foods (Formerly Faasos).
+We work on moonshots at Rebel inline with the company's vision.
